@@ -1,9 +1,12 @@
-Duoc UC
-🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
-👤 Autor del proyecto
-Nombre completo: Gabriel Alejandro Márquez Vidal
-Sección: PRY2202
-Carrera: DESARROLLO DE APLICACIONES
+
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+
+## 👤 Autor del proyecto
+- **Nombre completo:**  Gabriel Alejandro Márquez Vidal
+- **Sección:** PRY2202
+- **Carrera:** DESARROLLO DE APLICACIONES
+
 
 # 🏔️ Llanquihue Tour - Prototipo de Gestión Turística
 
