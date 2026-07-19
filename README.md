@@ -1,3 +1,10 @@
+Duoc UC
+🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+👤 Autor del proyecto
+Nombre completo: Gabriel Alejandro Márquez Vidal
+Sección: PRY2202
+Carrera: DESARROLLO DE APLICACIONES
+
 # 🏔️ Llanquihue Tour - Prototipo de Gestión Turística
 
 Prototipo de software modular orientado a objetos diseñado para la agencia de turismo **Llanquihue Tour**. El sistema digitaliza la gestión manual de clientes y guías turísticos, permitiendo la carga automatizada de datos desde archivos de texto, el registro dinámico en memoria y la consulta filtrada de registros.
