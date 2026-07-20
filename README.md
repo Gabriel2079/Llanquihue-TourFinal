@@ -48,3 +48,28 @@ src/
  └── utils/
       ├── LectorArchivo.java        # Lectura y parseo del archivo datos_turismo.txt
       └── RutInvalidoExcepcion.java # Excepción personalizada para validación de RUT
+
+
+---
+
+## 🚀 Funcionalidades Principales
+
+1. **Carga Automática:** Ingesta de datos desde `datos_turismo.txt` al iniciar el programa.
+2. **Inscripción de Clientes y Guías:** Registro interactivo por consola con validación de RUT.
+3. **Asignación por Defecto:** Uso de sobrecarga de constructores para la comuna (asigna *Llanquihue* si se deja vacía).
+4. **Listado General:** Visualización completa de todas las personas registradas en el sistema.
+5. **Filtrado Exclusivo de Clientes:** Filtro de la colección mediante el operador `instanceof`.
+6. **Búsqueda por RUT:** Consulta directa de registros individuales.
+
+---
+
+## ⚙️ Cómo Ejecutar el Proyecto
+
+1. Clona o descarga este repositorio.
+2. Abre el proyecto en **IntelliJ IDEA**.
+3. Asegúrate de que el archivo `datos_turismo.txt` esté ubicado en la raíz del proyecto.
+4. Ejecuta la clase `Main.java` ubicada en el paquete `app`.
+
+---
+
+
